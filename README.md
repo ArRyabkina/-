@@ -2,7 +2,7 @@
 
 ## ссылки на резюме
 
-* [Программист C / C++ / Python](https://github.com/ArRyabkina/CV.git)
+* [Программист C / C++ / Python]([https://github.com/ArRyabkina/CV.git](https://github.com/ArRyabkina/__main__.git))
 
 ## Работы на языке Си
 
