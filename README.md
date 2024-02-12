@@ -36,5 +36,5 @@
 * [Unity игра "Zombie's Trap"](https://github.com/ArRyabkina/Unity_3D_game_Zombies_Trap.git)
 * [Scratch игра "Pinkie Flap"](https://github.com/ArRyabkina/scratch_game_pinkie_flap.git)
 
-## My training with SkillFactory
+## Домашние работы от SkillFactory
 * [перейти](https://github.com/ArRyabkina/SF.git)
