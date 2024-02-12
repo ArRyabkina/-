@@ -1,6 +1,6 @@
 # Ссылки на работы и проекты
 
-## ссылки на резюме 
+## ссылки на резюме  
 
 * [Программист C / C++ / Python]([https://github.com/ArRyabkina/CV.git](https://github.com/ArRyabkina/__main__.git))
 
