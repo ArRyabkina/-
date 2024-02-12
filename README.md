@@ -2,7 +2,7 @@
 
 ## ссылки на резюме  
 
-* [Программист C / C++ / Python]([https://github.com/ArRyabkina/CV.git](https://github.com/ArRyabkina/__main__.git))
+* [Программист C / C++ / Python](.) -> этот репозиторий под именем "Аргылова Анна Нюргуновна"
 
 ## Работы на языке Си
 
