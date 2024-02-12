@@ -31,3 +31,7 @@
 * [мини копия твиттер](https://github.com/ArRyabkina/BackEnd_copyTwitter.git)
 * [мини копия инстаграм](https://github.com/ArRyabkina/BackEnd_copyInstagram.git)
 
+## Остальные проекты
+
+* [Unity игра "Zombie's Trap"](https://github.com/ArRyabkina/Unity_3D_game_Zombies_Trap.git)
+* [Scratch игра "Pinkie Flap"](https://github.com/ArRyabkina/scratch_game_pinkie_flap.git)
